@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Optical Phased Arrays and LiDAR simulation in MATLAB
+- 🌱 I’m currently learning photonic mask design using Nazca Design, KLayout and Python 
+- 😄 Pronouns: He/him
+
 <!--
 **adamrap/adamrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
